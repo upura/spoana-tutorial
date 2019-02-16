@@ -7,6 +7,7 @@ https://connpass.com/event/113586/
 https://speakerdeck.com/upura/sports-analysis-tutorial
 
 ## 関連ブログ記事
+- [初心者向けスポーツ分析チュートリアル「目標達成に導くデータ分析」 | Sports Analyst Meetup #1](https://upura.hatenablog.com/entry/2019/02/15/220000)
 - [iOS標準アプリ「ヘルスケア」からデータを書き出しcsvに変換](https://upura.hatenablog.com/entry/2019/02/03/192910)
 - [pandasで協定世界時(UTC)を日本標準時(JST)に変換](https://upura.hatenablog.com/entry/2019/02/06/121500)
 
